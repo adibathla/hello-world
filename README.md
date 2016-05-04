@@ -1,5 +1,4 @@
 # hello-world
-test repository
 Aditya Bathla is a junior majoring in Computer Science at Brown. Admitted to brown as a prospective engineering student, Aditya was well versed with the knowledge and importance of STEM related areas of study. Engineering and graphics design being his forte, he was awarded the first position in NASA Space Settlement Design Contest by NASA Ames, California and National Space Society for the     research submission titled  ‘ELYSIUM’ in 2012, ‘ADAMAS’ in 2011 and ‘ACROPOLIS’ in 2010. Through his course of time at Brown Aditya found his passion for design in computer science and the capability of the field to adapt to a multitude of facades.
 His recent projects include Virtual Self-­‐Diagnosis Tool, a visual and interactive design for self-­‐diagnosis of patients suffering from Repetitive Motion Injuries in immersive virtual reality; web developer for Stem Kids NYC, aiding in developing a website that contains a learning management system that provides content to underrepresented students and their families in Harlem, who live at or below the poverty level, on computer science and engineering design.
 
